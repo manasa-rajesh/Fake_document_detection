@@ -1,7 +1,0 @@
-gunicorn
-Flask
-imutils
-opencv-python
-Pillow
-numpy
-scikit-image
